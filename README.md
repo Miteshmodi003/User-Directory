@@ -1,4 +1,4 @@
-# React Employee Directory
+# Employee Directory
 
  
 ![demopic](/public/demo.png) 
@@ -15,12 +15,6 @@ Employee search directory built with React.js components with autofill suggestio
 *Ajax Calls,*
 *Props and Components*
 
-### Future Development Plan
-Building extras search filters such as department; <br>
-Adding associate about page/modal <br>
-Make it mobile friendly
-
-
 ### Technologies-Libraries
 - [React.js](https://reactjs.org//) 
 - [Materialize](https://materializecss.com/) <br>
@@ -31,10 +25,5 @@ Make it mobile friendly
 
 ![demogif](/public/gifdemo.gif)
 
-
-
-### Link to Deployed Application
-Check it out!  
-[https://glacial-lake-21367.herokuapp.com/]
 
 
