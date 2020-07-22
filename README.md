@@ -1,7 +1,5 @@
 # Employee Directory
 
- 
-![demopic](/public/demo.png) 
 
 
 ### Description
@@ -19,11 +17,6 @@ Employee search directory built with React.js components with autofill suggestio
 - [React.js](https://reactjs.org//) 
 - [Materialize](https://materializecss.com/) <br>
 - [Moment.js](https://momentjs.com/) 
-
-
-### Demo
-
-![demogif](/public/gifdemo.gif)
 
 
 
